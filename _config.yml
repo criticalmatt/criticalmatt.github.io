@@ -1,0 +1,36 @@
+# site settings
+title: Matt Isola
+subtitle: Maker // Designer // Learner
+email: matthew.isola@colorado.edu
+description: I learn by doing. Empathize. Ideate. Iterate. Repeat.
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: 2003 Grove Street
+city: Boulder
+state: CO
+zip_code: 80302
+country: United States of America
+phone: (510) 673-0070
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 5
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com/isolayo
+linkedin_url: https://www.linkedin.com/in/matthewbisola
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/isolayo
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
