@@ -3,7 +3,7 @@ layout: post
 title: It's Electric!
 landing-title: 'Autonomous Plant'
 nav-menu: true
-description: null
+description: Self Watering Plant 
 image: https://i.imgur.com/jCDUD51.jpg
 author: null
 ---
@@ -130,4 +130,4 @@ So, I ordered a new soil moisture sensor from Sparkfun.
 
 ## Conclusion
 
-I ran into trouble with the soil moisture meter. For the record I was very
+*To be continued when I configure the new soil moisture sensor*
