@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Great things are done by a series of small things brought together.'
-description: I learn by doing.
+description: Learn by doing.
 image: null
 author: null
 ---
