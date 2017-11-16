@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Enchanted Objects 
-description: Making A Smart Mirror
+title: Magic Mirror
+description: Creating an Enchanted Object
 image: https://i.imgur.com/2HTpMPq.jpg?1
 ---
 
