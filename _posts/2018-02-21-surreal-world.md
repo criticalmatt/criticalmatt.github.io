@@ -14,9 +14,20 @@ We created VR worlds representing surrealist art by [René Magritte](https://en.
 - Make the images portals into the worlds
 - Navigate through the worlds seamlessly
 
+![magic of the sunset](https://i.pinimg.com/474x/8d/50/11/8d5011c38ccdd56c284e435ecd5f740b--vladimir-kush-alternative-art.jpg)
+"Magic of the Sunset" painting by Vladimir Kush
+
 ![screws and stump](https://i.imgur.com/bQdVaAh.png?1)
+Here is the VR recreation.
+
+![Golconda](https://www.renemagritte.org/images/paintings/golconda.jpg)
+"Golconda" By Rene Magritte
+
 ![Golconda](https://i.imgur.com/aCtaseb.jpg)
-![close up](https://i.imgur.com/LKiIItv.jpg)
+Here is the VR recreation.
+
+![close up](https://i.imgur.com/LKiIItv.jpgn)
+A close up of the characters. Made in Adobe Fuse.
 
 
 ## How
