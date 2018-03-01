@@ -2,7 +2,7 @@
 layout: post
 title: SurrealWorld
 description: Diving into VR
-image:  https://imgur.com/a/TSb5B
+image:  https://i.imgur.com/IeVxkZE.png
 ---
 
 ## What
@@ -13,6 +13,11 @@ We created VR worlds representing surrealist art by [René Magritte](https://en.
 - Turn the 2d paintings to a 3d world
 - Make the images portals into the worlds
 - Navigate through the worlds seamlessly
+
+![screws and stump](https://i.imgur.com/bQdVaAh.png?1)
+![Golconda](https://i.imgur.com/aCtaseb.jpg)
+![close up](https://i.imgur.com/LKiIItv.jpg)
+
 
 ## How
 
