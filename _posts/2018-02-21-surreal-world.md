@@ -34,6 +34,10 @@ Here is the VR recreation.
 
 A close up of the characters. Made in Adobe Fuse.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gdlDxe0Gpc4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Here a video of the project in action.
+
 
 ## How
 
