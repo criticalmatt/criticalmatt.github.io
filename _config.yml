@@ -3,7 +3,7 @@ title: Matt Isola
 subtitle: Maker // Designer // Learner
 email: matthew.isola@colorado.edu
 description: Learn by doing. Empathize. Ideate. Iterate. Repeat.
-baseurl: "criticalmatt.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 2003 Grove Street
