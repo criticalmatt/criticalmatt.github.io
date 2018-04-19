@@ -6,12 +6,12 @@ description: Learn by doing. Empathize. Ideate. Iterate. Repeat.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 2003 Grove Street
+street_address: 
 city: Boulder
 state: CO
 zip_code: 80302
 country: United States of America
-phone: (510) 673-0070
+phone:
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
