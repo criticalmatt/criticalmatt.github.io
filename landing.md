@@ -44,7 +44,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Catamaran/h3>
+					<h3>Catamaran</h3>
 				</header>
 				<p>Myself and three other students started Catamaran, an online platform that connects skilled students and recent graduates to small business owners at reasonable price. </p>
 				<ul class="actions">
